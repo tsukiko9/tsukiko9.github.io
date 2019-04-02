@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Baka9&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2019 11:55:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 12:18:04 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/post/hello-world/</link>
-      <pubDate>Tue, 02 Apr 2019 11:55:25 +0800</pubDate>
+      <pubDate>Tue, 02 Apr 2019 12:18:04 +0800</pubDate>
       
       <guid>http://localhost:1313/post/hello-world/</guid>
       <description>重新开始。</description>
