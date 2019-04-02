@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Baka9&#39;s Blog</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://www.baka9.com/post/</link>
     <description>Recent content in Posts on Baka9&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Apr 2019 12:47:04 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.baka9.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/post/hello-world/</link>
+      <link>https://www.baka9.com/post/hello-world/</link>
       <pubDate>Tue, 02 Apr 2019 12:47:04 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/hello-world/</guid>
+      <guid>https://www.baka9.com/post/hello-world/</guid>
       <description>重新开始。</description>
     </item>
     
